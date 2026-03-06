@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "WebFetch",
+      "Bash(gh *)",
+      "Bash(ssh *)",
+      "Bash(mkdir *)",
+      "Bash(python *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
